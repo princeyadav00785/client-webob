@@ -4,3 +4,6 @@
     margin :1px;
    
 }
+.app_page{
+    display: flex;
+}
